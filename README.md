@@ -6,5 +6,10 @@ The provided python script (fpsBoost.py) will make the mouse click at 60Hz when 
 ## Video demonstrations
 
 
-https://github.com/truta193/BreakoutASM/assets/30195907/5d18aa5a-0467-46d7-854d-1e021647d17b
+https://github.com/truta193/BreakoutASM/assets/30195907/eb7bb46d-06a6-4617-bada-d9fa779d22c0
+
+
+
+
+https://github.com/truta193/BreakoutASM/assets/30195907/5bdd86f0-f4c5-424e-8d54-fe913529466a
 
