@@ -4,6 +4,7 @@ The framework is limited to a 200ms clock but I have exploited a bug I found; cl
 ## Python Script
 The provided python script (fpsBoost.py) will make the mouse click at 60Hz when the cursor is on the game's window. To turn it off, press ESC.
 ## Video demonstrations
+Video footage is sped up by x4 to keep them short.
 
 
 https://github.com/truta193/BreakoutASM/assets/30195907/eb7bb46d-06a6-4617-bada-d9fa779d22c0
